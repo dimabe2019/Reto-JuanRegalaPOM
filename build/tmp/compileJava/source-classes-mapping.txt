@@ -1,0 +1,6 @@
+pages/JuanRegalaPage.java
+ pages.JuanRegalaPage
+driver/SeleniumWebDriver.java
+ driver.SeleniumWebDriver
+steps/JuanRegalaSteps.java
+ steps.JuanRegalaSteps
